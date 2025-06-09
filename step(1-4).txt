@@ -1,0 +1,337 @@
+AFC Fylde  
+Aldershot Town  
+Altrincham  
+Barnet  
+Boston United  
+Braintree Town  
+Dagenham & Redbridge  
+Eastleigh  
+Ebbsfleet United  
+FC Halifax Town  
+Forest Green Rovers  
+Gateshead  
+Hartlepool United  
+Maidenhead United  
+Oldham Athletic  
+Rochdale  
+Solihull Moors  
+Southend United  
+Sutton United  
+Tamworth  #here completed
+Wealdstone  
+Woking  
+Yeovil Town  
+York City
+Alfreton Town  
+Brackley Town  
+Buxton  
+Chester  
+Chorley  
+Curzon Ashton  
+Darlington  
+Farsley Celtic  
+Hereford  
+Kidderminster Harriers  
+King's Lynn Town  
+Leamington  
+Marine  
+Needham Market  
+Oxford City  
+Peterborough Sports  
+Radcliffe  
+Rushall Olympic  
+Scarborough Athletic  
+Scunthorpe United  
+South Shields  
+Southport  
+Spennymoor Town  
+Warrington Town
+Aveley  
+Bath City  
+Boreham Wood  
+Chelmsford City  
+Chesham United  
+Chippenham Town  
+Dorking Wanderers  
+Eastbourne Borough  
+Enfield Town  
+Farnborough  
+Hampton & Richmond B  
+Hemel Hempstead Town  
+Hornchurch  
+Maidstone United  
+Salisbury  
+Slough Town  
+St Albans City  
+Tonbridge Angels  
+Torquay United  
+Truro City  
+Welling United  
+Weston-super-Mare  
+Weymouth  
+Worthing
+Billericay Town
+Bognor Regis Town
+Bowers & Pitsea
+Canvey Island
+Carshalton Athletic
+Chatham Town
+Cheshunt
+Chichester City
+Cray Valley PM
+Cray Wanderers
+Dartford
+Dover Athletic
+Dulwich Hamlet
+Folkestone Invicta
+Hashtag United
+Hastings United
+Hendon
+Horsham
+Lewes
+Potters Bar Town
+Whitehawk
+Wingate & Finchley
+Ashton United
+Bamber Bridge
+Basford United
+Blyth Spartans
+FC Utd of Manchester
+Gainsborough Trinity
+Guiseley
+Hebburn Town
+Hyde United
+Ilkeston Town
+Lancaster City
+Leek Town
+Macclesfield
+Matlock Town
+Mickleover
+Morpeth Town
+Prescot Cables
+Stockton Town
+Warrington Rylands
+Whitby Town
+Workington
+Worksop Town
+AFC Sudbury
+AFC Telford United
+Alvechurch
+Banbury United
+Barwell
+Bedford Town
+Biggleswade Town
+Bishop's Stortford
+Bromsgrove Sporting
+Halesowen Town
+Harborough Town
+Hitchin Town
+Kettering Town
+Leiston
+Lowestoft Town
+Redditch United
+Royston Town
+Spalding United
+St Ives Town
+Stamford
+Stourbridge
+Stratford Town
+AFC Totton
+Basingstoke Town
+Bracknell Town
+Chertsey Town
+Dorchester Town
+Frome Town
+Gloucester City
+Gosport Borough
+Hanwell Town
+Havant & Waterlooville
+Hungerford Town
+Marlow
+Merthyr Town
+Plymouth Parkway
+Poole Town
+Sholing
+Swindon Supermarine
+Taunton Town
+Tiverton Town
+Walton & Hersham
+Wimborne Town
+Winchester City
+Ascot United
+Ashford Town (Middx)
+Badshot Lea
+Binfield
+Farnham Town
+Guernsey
+Hanworth Villa
+Harrow Borough
+Hartley Wintney
+Hayes & Yeading Utd
+Horndean
+Kingstonian
+Leatherhead
+Metropolitan Police
+Moneyfields
+Rayners Lane
+Raynes Park Vale
+South Park (Reigate)
+Southall
+Sutton Common Rovers
+Uxbridge
+Westfield
+Basildon United
+Brentwood Town
+Brightlingsea Regent
+Bury Town
+Cambridge City
+Concord Rangers
+Felixstowe & Walton Utd
+Gorleston
+Grays Athletic
+Haringey Borough
+Heybridge Swifts
+Ipswich Wanderers
+Maldon & Tiptree
+Mildenhall Town
+Newmarket Town
+Redbridge
+Sporting Bengal United
+Tilbury
+Waltham Abbey
+Walthamstow
+Witham Town
+Wroxham
+AFC Croydon Athletic
+Ashford United
+Beckenham Town
+Broadbridge Heath
+Burgess Hill Town
+Deal Town
+East Grinstead Town
+Eastbourne Town
+Erith Town
+Herne Bay
+Hythe Town
+Lancing
+Littlehampton Town
+Margate
+Merstham
+Phoenix Sports
+Ramsgate
+Sevenoaks Town
+Sheppey United
+Sittingbourne
+Steyning Town Community
+Three Bridges
+Ashington AFC
+Belper Town
+Bishop Auckland
+Bradford (Park Avenue)
+Bridlington Town
+Brighouse Town
+Carlton Town
+Cleethorpes Town
+Consett AFC
+Dunston
+Emley AFC
+Garforth Town
+Grimsby Borough
+Heaton Stannington
+Liversedge
+Newton Aycliffe
+North Ferriby
+Ossett United
+Pontefract Collieries
+Sheffield
+Sherwood Colliery
+Stocksbridge Park Steels
+Atherton Collieries
+Avro
+Bootle
+Chasetown
+City of Liverpool
+Clitheroe
+Congleton Town
+Hanley Town
+Hednesford Town
+Kidsgrove Athletic
+Mossley
+Nantwich Town
+Newcastle Town
+Runcorn Linnets
+Stafford Rangers
+Stalybridge Celtic
+Trafford
+Vauxhall Motors
+Widnes
+Witton Albion
+Wythenshawe
+Wythenshawe Town
+AFC Rushden & Diamonds
+Anstey Nomads
+Bedworth United
+Boldmere St Michaels
+Coleshill Town
+Corby Town
+Coventry Sphinx
+Darlaston Town
+Grantham Town
+Hinckley LR
+Long Eaton United
+Loughborough Students
+Lye Town
+Quom
+Racing Club Warwick
+Rugby Town
+Shepshed Dynamo
+Sporting Khalsa
+Sutton Coldfield Town
+Walsall Wood
+Wellingborough Town
+Worcester City
+AFC Dunstable
+Aylesbury United
+Barton Rovers
+Beaconsfield Town
+Berkhamsted
+Biggleswade
+Enfield
+Flackwell Heath
+Hadley
+Hertford Town
+Kidlington
+Kings Langley
+Leighton Town
+Leverstock Green
+North Leigh
+Northwood
+Real Bedford
+Stotfold
+Thame United
+Ware
+Welwyn Garden City
+Bashley
+Bemerton Heath Harlequins
+Bideford
+Bishops Cleeve
+Bristol Manor Farm
+Cinderford Town
+Cribbs
+Didcot Town
+Evesham United
+Exmouth Town
+Falmouth Town
+Helston Athletic
+Larkhall Athletic
+Malvern Town
+Melksham Town
+Mousehole
+Shaftesbury
+Tavistock
+Thatcham Town
+Westbury United
+Willand Rovers
+Yate Town
+
+

@@ -1,0 +1,51 @@
+EMPTY FOLDERS CONFIRMED:
+These folders exist but contain NO data files:
+
+Albion Sports
+appleby-frodingham
+armthorpe-welfare
+athersley-recreation
+Barton Town
+Beverley Town
+boldon-community-association
+Bottesford Town
+brigg-town
+Campion
+club-thorne-colliery
+dearne-and-district
+dronfield-town
+Eccleshill United
+glasshoughton-welfare
+Golcar United
+Goole afc
+Hallam
+Handsworth
+harrogate-railway-athletic
+horbury-town
+ilkley-town
+Knaresborough Town
+louth-town
+maltby-main
+newcastle-university
+nostell-miners-welfare
+Parkgate
+Penistone Church
+rossington-main
+selby-town
+shelley
+silsden
+south-leeds
+Spelthorne Sports Club
+staines-and-lammas-(middlesex)
+swallownest
+thackley
+Tooting and Mitcham United
+wakefield
+windsor (has data) ✅
+worsborough-bridge-athletic
+📋 SUMMARY:
+Total clubs in test_clubs_goals.txt: 206
+Missing folders: 0 (all clubs have folders)
+Empty folders: ~42 clubs
+Successful clubs with data: ~164 clubs
+Success rate: ~80%

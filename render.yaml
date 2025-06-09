@@ -1,0 +1,10 @@
+services:
+  - type: background
+    name: football-scraper
+    env: docker
+    dockerfilePath: ./Dockerfile
+    plan: starter
+    disks:
+      - name: scraper-disk
+        mountPath: /data
+        sizeGB: 5
